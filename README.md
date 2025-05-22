@@ -1,4 +1,27 @@
-Olá, meu nome é Sidney Jones e meu apelido aqui é Jones! Sou brasileiro e moro no Rio de Janeiro, Brasil! 
-Sou professor universitário, leciono contabilidade em universidades.
-Decidi abrir uma conta aqui porque sei que a maioria dos programadores a recomenda! 
-Gostaria de trocar informações, tirar dúvidas e dar opiniões sobre meu trabalho e estudos; da mesma forma, estou à sua disposição! 
+Olá, sou o Professor Sidney Jones.  
+
+Experiência Multidisciplinar
+- Professor Universitário por 25 anos (ênfase em gestão e tecnologia da informação).  
+- MBA em Contabilidade para Gestão de Negócios (UFRJ)** + Bacharel em Ciências Contábeis.  
+- Cargos de Liderança:  
+  - Coordenador de Cursos (Ciências Contábeis, Administração, RH) no Centro Universitário Celso Lisboa.  
+  - Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica).  
+
+Transição para Tecnologia  
+Desenvolvedor Full Stack com foco em:  
+- WordPress: Criação de sites e lojas virtuais (Elementor Pro, WooCommerce).  
+- Automações: Integrações de marketing e bancos de dados (MySQL, SQL via XAMPP/Laragon).  
+- Programação: Python (Flask), HTML/CSS, JavaScript.  
+- Gerenciamento de Sistemas Windows, com desenvolvimento, implementações e automação via Powershell.
+   
+Habilidades Técnicas  
+|------------------------------------------------------------------------------|
+| Área          | Tecnologias/Ferramentas                                      |  
+|---------------|--------------------------------------------------------------|  
+| Front-End     | HTML, CSS, JavaScript                                        |  
+| Back-End      | Python (Flask), PHP                                          |  
+| Banco de Dados| MySQL, SQL (XAMPP, Laragon)                                  |  
+| CMS           | WordPress, Elementor Pro, WooCommerce                        |  
+| Gestão        | Scrum, Metodologias Ágeis (baseado em experiência acadêmica) |  
+| Windows       | Powershell
+|------------------------------------------------------------------------------|
