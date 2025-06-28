@@ -8,8 +8,8 @@
 - **Professor Substituto** de Contabilidade e Análise de Custos na FACC/UFRJ. 
 
 - **Cargos de Liderança**:
-  - **Coordenador de Cursos (Ciências Contábeis, Administração, RH) no *Centro Universitário Celso Lisboa*
-  - **Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica de Graduação e Pós-Graduação)
+  - Coordenador de Cursos (Ciências Contábeis, Administração, RH) no *Centro Universitário Celso Lisboa*
+  - Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica de Graduação e Pós-Graduação)
   - **Coordenador Adjunto de Graduação na Faculdade de Ciências Contábeis e Administração da UFRJ**
   
 ## 💻 Transição para Tecnologia
