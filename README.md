@@ -5,12 +5,12 @@
 ## 🎓 Experiência Multidisciplinar
 - **Professor Universitário** por 25 anos (ênfase em gestão de negócios e  gestão em tecnologia da informação).
 - **MBA em Contabilidade para Gestão de Negócios (UFRJ)** + Bacharel em Ciências Contábeis pela Faculdades Moares Junior.
-- **Professor Substituto de Contabilidade e Análise de Custos na FACC/UFRJ. 
+- **Professor Substituto** de Contabilidade e Análise de Custos na FACC/UFRJ. 
 
 - **Cargos de Liderança**:
   - **Coordenador de Cursos (Ciências Contábeis, Administração, RH) no *Centro Universitário Celso Lisboa*
   - **Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica de Graduação e Pós-Graduação)
-  - **Coordenador Adjunto de Graduação na Faculdade de Ciências Contábeis e Administração da UFRJ
+  - **Coordenador Adjunto de Graduação na Faculdade de Ciências Contábeis e Administração da UFRJ**
   
 ## 💻 Transição para Tecnologia
 **Desenvolvedor Full Stack** com foco em:
