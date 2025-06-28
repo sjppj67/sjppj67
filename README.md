@@ -18,7 +18,7 @@
 - ⚙️ **Windows**: Gerenciamento de sistemas, automação via PowerShell.
 
 ## 🛠️ Habilidades Técnicas
-|---------------------------------------------------------------------------------------------|
+
 | Área                    | Tecnologias/Ferramentas                                           |
 |-------------------------|-------------------------------------------------------------------|
 | **Front-End**           | HTML, CSS, JavaScript, **Tailwind CSS, Bootstrap, Font Awesome**  |
@@ -29,7 +29,6 @@
 | **Controle de Versão**  | Git, GitHub, **GitLab, Bitbucket**                                |   
 | **Gestão**              | Scrum, Metodologias Ágeis                                         |
 | **Windows**             | PowerShell (automação e administração)                            |
-|---------------------------------------------------------------------------------------------|
 
 ## 🚀 Ferramentas e Plataformas
 - **Ambiente de Desenvolvimento**: Visual Studio Code, XAMPP, Laragon
