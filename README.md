@@ -3,14 +3,15 @@
 👋 Olá, sou o **Professor Sidney Jones**.
 
 ## 🎓 Experiência Multidisciplinar
-- **Professor Universitário** por 25 anos (ênfase em gestão de negócios e  gestão em tecnologia da informação)
+- **Professor Universitário** por 25 anos (ênfase em gestão de negócios e  gestão em tecnologia da informação).
 - **MBA em Contabilidade para Gestão de Negócios (UFRJ)** + Bacharel em Ciências Contábeis pela Faculdades Moares Junior.
-- **Cargos de Liderança**:
-  - Coordenador de Cursos (Ciências Contábeis, Administração, RH) no *Centro Universitário Celso Lisboa*
-  - Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica de Graduação e Pós-Graduação)
-  - Coordenador Adjunto de Graduação na Faculdade de Ciências Contábeis e Administração da UFRJ
-  - Professor Substituto de Contabilidade e Análise de Custos na FACC/UFRJ 
+- **Professor Substituto de Contabilidade e Análise de Custos na FACC/UFRJ. 
 
+- **Cargos de Liderança**:
+  - **Coordenador de Cursos (Ciências Contábeis, Administração, RH) no *Centro Universitário Celso Lisboa*
+  - **Gestor em TI e Finanças em diversos setores da **UFRJ** (Informática, Ciência & Tecnologia, Secretaria Acadêmica de Graduação e Pós-Graduação)
+  - **Coordenador Adjunto de Graduação na Faculdade de Ciências Contábeis e Administração da UFRJ
+  
 ## 💻 Transição para Tecnologia
 **Desenvolvedor Full Stack** com foco em:
 - 🛠️ **Desenvolvimento Web Moderno**: Criação de sites estáticos com Jekyll, utilizando frameworks CSS como Tailwind CSS e bibliotecas de ícones (Font Awesome). Experiência em hospedagem e deploy com GitHub Pages, Netlify e Firebase, incluindo a automação de deploy via conexão com repositórios Git.
