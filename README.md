@@ -14,25 +14,26 @@
   
 ## 💻 Transição para Tecnologia
 **Desenvolvedor Full Stack** com foco em:
-- 🛠️ **Desenvolvimento Web Moderno**: Criação de sites estáticos com Jekyll, utilizando frameworks CSS como Tailwind CSS e bibliotecas de ícones (Font Awesome). Experiência em hospedagem e deploy com GitHub Pages, Netlify e Firebase, incluindo a automação de deploy via conexão com repositórios Git.
+- 🛠️ **Desenvolvimento Web Moderno**: Criação de sites estáticos com Jekyll, React, Nodejs, Nextjs, etc. Utilizando frameworks CSS como Tailwind CSS 4.0 e bibliotecas de ícones (Font Awesome).
+- 🛠️ **Experiência em hospedagem e deploy**: GitHub Pages, Netlify, Vercel, Firebase, Supabase, Render, etc. Incluindo a automação de deploy via conexão com repositórios Git.
 - 🚀 **WordPress**: Criação de sites e lojas virtuais (Elementor Pro, WooCommerce).
 - 🤖 **Automações**: Integrações de marketing e bancos de dados (MySQL, SQL via XAMPP/Laragon).
-- 📜 **Programação**: Python (Flask), HTML/CSS, JavaScript.
+- 📜 **Programação**: Python (Flask), HTML/CSS, JavaScript, C/C++ (cmake, imagemagick7, Qt6), Borlando Delphi.
 - ⚙️ **Windows**: Gerenciamento de sistemas, automação via PowerShell.
 - 🖧 **Redes Cisco**: Implementação e Administração da Rede do Museu Nacional (Quinta da Boa Vista) e da Escola de Enfermagem Anna Nery (Cidade Nova) - UFRJ.
 
 ## 🛠️ Habilidades Técnicas
 
-| Área                    | Tecnologias/Ferramentas                                           |
-|-------------------------|-------------------------------------------------------------------|
-| **Front-End**           | HTML, CSS, JavaScript, **Tailwind CSS, Bootstrap, Font Awesome**  |
-| **Back-End**            | Python (Flask), PHP                                               |
-| **Banco de Dados**      | MySQL, SQL (XAMPP, Laragon)                                       |
-| **CMS/SSG**             | WordPress, Elementor Pro, WooCommerce, Jekyll                     |
-| **Hospedagem/Deploy**   | GitHub Pages, Netlify, Firebase                                   |
-| **Controle de Versão**  | Git, GitHub, **GitLab, Bitbucket**                                |   
-| **Gestão**              | Scrum, Metodologias Ágeis                                         |
-| **Windows**             | PowerShell (automação e administração)                            |
+| Área                    | Tecnologias/Ferramentas                                                          |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Front-End**           | HTML, CSS, JavaScript, C/C++, Delphi, **Tailwind CSS, Bootstrap, Font Awesome**  |
+| **Back-End**            | Python (Flask), PHP                                                              |
+| **Banco de Dados**      | MySQL, SQL (XAMPP, Laragon)                                                      |
+| **CMS/SSG**             | WordPress, Elementor Pro, WooCommerce, Jekyll                                    |
+| **Hospedagem/Deploy**   | GitHub Pages, Netlify, Firebase                                                  |
+| **Controle de Versão**  | Git, GitHub, **GitLab, Bitbucket**                                               |   
+| **Gestão**              | Scrum, Metodologias Ágeis                                                        |
+| **Windows**             | PowerShell (automação e administração)                                           |
 
 ## 🚀 Ferramentas e Plataformas
 - **Ambiente de Desenvolvimento**: Visual Studio Code, XAMPP, Laragon
