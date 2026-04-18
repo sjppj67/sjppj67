@@ -24,16 +24,16 @@
 
 ## 🛠️ Habilidades Técnicas
 
-| Área                    | Tecnologias/Ferramentas                                                          |
-|-------------------------|----------------------------------------------------------------------------------|
-| **Front-End**           | HTML, CSS, JavaScript, C/C++, Delphi, **Tailwind CSS, Bootstrap, Font Awesome**  |
-| **Back-End**            | Python (Flask), PHP                                                              |
-| **Banco de Dados**      | MySQL, SQL (XAMPP, Laragon)                                                      |
-| **CMS/SSG**             | WordPress, Elementor Pro, WooCommerce, Jekyll                                    |
-| **Hospedagem/Deploy**   | GitHub Pages, Netlify, Firebase                                                  |
-| **Controle de Versão**  | Git, GitHub, **GitLab, Bitbucket**                                               |   
-| **Gestão**              | Scrum, Metodologias Ágeis                                                        |
-| **Windows**             | PowerShell (automação e administração)                                           |
+| Área                    | Tecnologias/Ferramentas                                                            |
+|-------------------------|------------------------------------------------------------------------------------|
+| **Front-End**           | HTML, CSS, JavaScript, C/C++, Delphi, **Tailwind 4 CSS, Bootstrap, Font Awesome**  |
+| **Back-End**            | Python (Flask), PHP                                                                |
+| **Banco de Dados**      | MySQL, SQL (XAMPP, Laragon)                                                        |
+| **CMS/SSG**             | WordPress, Elementor Pro, WooCommerce, Jekyll                                      |
+| **Hospedagem/Deploy**   | GitHub Pages, Netlify, Firebase                                                    |
+| **Controle de Versão**  | Git, GitHub, **GitLab, Bitbucket**                                                 |   
+| **Gestão**              | Scrum, Metodologias Ágeis                                                          |
+| **Windows**             | PowerShell (automação e administração)                                             |
 
 ## 🚀 Ferramentas e Plataformas
 - **Ambiente de Desenvolvimento**: Visual Studio Code, XAMPP, Laragon
