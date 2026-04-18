@@ -19,6 +19,7 @@
 - 🤖 **Automações**: Integrações de marketing e bancos de dados (MySQL, SQL via XAMPP/Laragon).
 - 📜 **Programação**: Python (Flask), HTML/CSS, JavaScript.
 - ⚙️ **Windows**: Gerenciamento de sistemas, automação via PowerShell.
+- 🖧 **Redes Cisco**: Implementação e Administração da Rede do Museu Nacional (Quinta da Boa Vista) e da Escola de Enfermagem Anna Nery (Cidade Nova) - UFRJ.
 
 ## 🛠️ Habilidades Técnicas
 
